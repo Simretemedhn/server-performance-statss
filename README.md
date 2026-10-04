@@ -38,5 +38,5 @@ The project can also be run inside WSL2 with Ubuntu on Windows.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Simretemedhn/server-performance-statss/
 ```
